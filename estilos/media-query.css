@@ -38,20 +38,14 @@ Grandes tela: acima de 1200px
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#login > div#formulario {
-        float: right;
+        float: left;
         width: 50%;
         height: 100%;
     }
-
-    section#login > div#formulário {
-        float: right;
-        width: 50%;
-    }
-
 }
