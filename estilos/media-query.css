@@ -48,4 +48,12 @@ Grandes tela: acima de 1200px
         width: 50%;
         height: 100%;
     }
+
+    div#formulario > h1 {
+        font-size: 2em;
+    }
+
+    div#formulario > p {
+        font-size: 1.2em;
+    }
 }
